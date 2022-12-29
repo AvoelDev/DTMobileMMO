@@ -1,0 +1,27 @@
+FIRST_MSG_1=Arquivo sequestrado: {0}, por favor verifique a rede!
+FIRST_MSG_2=Falha no download do recurso: {0}, verifique a rede!
+FIRST_MSG_4=Falha ao conectar ao servidor
+FIRST_MSG_8=Falha ao obter informações de atualização
+FIRST_MSG_10=Atualização da versão principal
+FIRST_MSG_12=Falha ao baixar o arquivo:
+FIRST_MSG_13=Há uma anormalidade na verificação deste arquivo:
+FIRST_MSG_14=Falha na inicialização, se o jogo não rodar normalmente, reinicie o jogo
+FIRST_MSG_15=Informações
+FIRST_MSG_17=Cancelar
+FIRST_MSG_18=OK
+FIRST_MSG_19=O pacote de instalação mais recente está disponível, faça o download e instale
+FIRST_MSG_20=Erro ao gravar o arquivo, talvez não haja espaço suficiente:
+FIRST_MSG_21=Atualizando...
+FIRST_MSG_22=Versão do pacote:
+FIRST_MSG_23=Versão do recurso:
+FIRST_MSG_24=Tamanho do recurso:
+FIRST_MSG_25=Corrigir? Após a confirmação, o jogo será encerrado e o processo de reparo será realizado após a reentrada
+FIRST_MSG_26=Atualização do jogo
+FIRST_MSG_27=Atualizar
+FIRST_MSG_28=Nova versão disponível
+FIRST_MSG_29=Saia do jogo!
+FIRST_MSG_30=Você está prestes a entrar no mundo de Loya, você está pronto?
+FIRST_MSG_31=Se o carregamento falhar, tente alternar a rede <color=#2BE475>WiFi/4G</color> ou use a função <color=#2BE475>[Reparar cliente]</color>
+FIRST_MSG_32=Reparar cliente
+FIRST_MSG_33=Nova versão encontrada, atualize agora
+FIRST_MSG_34=Recomenda-se atualizar em um ambiente WiFi

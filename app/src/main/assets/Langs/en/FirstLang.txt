@@ -1,0 +1,27 @@
+FIRST_MSG_1=File hijacked: {0}, please check the network!
+FIRST_MSG_2=Resource download failed: {0}, please check the network!
+FIRST_MSG_4=Failed to connect to the server
+FIRST_MSG_8=Failed to obtain update information
+FIRST_MSG_10=Perform a major version update
+FIRST_MSG_12=Failed to download file:
+FIRST_MSG_13=The file verification is abnormal:
+FIRST_MSG_14=Initialization failed. If the game cannot run normally, please restart the game
+FIRST_MSG_15=Reminder
+FIRST_MSG_17=Cancel
+FIRST_MSG_18=OK
+FIRST_MSG_19=There is the latest installation package, please download and install
+FIRST_MSG_20=Writing file is abnormal, there may be insufficient space:
+FIRST_MSG_21=Updating...
+FIRST_MSG_22=Package version:
+FIRST_MSG_23=Resource version:
+FIRST_MSG_24=Resource size:
+FIRST_MSG_25=Do you want to repair it? The game will exit after confirmation, and the repair process will be executed after entering again
+FIRST_MSG_26=Game update
+FIRST_MSG_27=Update
+FIRST_MSG_28=New version is available
+FIRST_MSG_29=Quit the game!
+FIRST_MSG_30=You are about to enter the world of Loya, are you ready, Warriors?
+FIRST_MSG_31=If login failed,pls switch to <color=#2BE475>WiFi</color> network or run <color=#2BE475>[repair client]</color>
+FIRST_MSG_32=Repair the client
+FIRST_MSG_33=A new version is found, please update now
+FIRST_MSG_34=It is recommended to update in WiFi environment

@@ -1,0 +1,6 @@
+packType=0
+miniGameStart=
+miniGameAction=0
+apmHost=apiapm.gz4399.com
+apmDnsIp=http://119.29.29.29/
+eventUrl=http://log.4399data.com/event_log

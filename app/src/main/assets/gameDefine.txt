@@ -1,0 +1,7 @@
+id=Android_lyzs_us_rel
+serverlist_url=https://lyzs-cdnres.4399us.com/cdnconfig_%q/US/stable/mix_us/assets/lyzs_mix_us.txt
+update_url=https://lyzs-cdnres.4399us.com/cdnconfig_{0}/US/stable/mix_us/up/android_us/
+SDKName=AndroidUnion
+isShowLog=FALSE
+Langs=en,English;de,Deutsch;fr,Français;tr,Türkçe;pt,Português;es,Español;cn,简体中文
+defaultLang=us

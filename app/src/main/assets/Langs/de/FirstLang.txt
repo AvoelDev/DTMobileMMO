@@ -1,0 +1,27 @@
+FIRST_MSG_1=Datei entführt: {0}, bitte überprüfen Sie das Netzwerk!
+FIRST_MSG_2=Ressourcen-Download fehlgeschlagen: {0}, bitte überprüfen Sie das Netzwerk!
+FIRST_MSG_4=Verbindung zum Server fehlgeschlagen
+FIRST_MSG_8=Aktualisierungsinformationen konnten nicht abgerufen werden
+FIRST_MSG_10=Hauptversionsaktualisierung
+FIRST_MSG_12=Datei konnte nicht heruntergeladen werden:
+FIRST_MSG_13=Es gibt eine Anomalie bei der Überprüfung dieser Datei:
+FIRST_MSG_14=Initialisierung fehlgeschlagen, wenn das Spiel nicht normal laufen kann, starten Sie das Spiel bitte neu
+FIRST_MSG_15=Informationen
+FIRST_MSG_17=Abbrechen
+FIRST_MSG_18=OK
+FIRST_MSG_19=Das neueste Installationspaket ist verfügbar, bitte herunterladen und installieren
+FIRST_MSG_20=Fehler beim Schreiben der Datei, vielleicht nicht genug Speicherplatz:
+FIRST_MSG_21=Aktualisierung...
+FIRST_MSG_22=Paketversion:
+FIRST_MSG_23=Ressourcenversion:
+FIRST_MSG_24=Ressourcengröße:
+FIRST_MSG_25=Korrektur? Nach der Bestätigung wird das Spiel beendet und der Reparaturvorgang wird nach dem erneuten Betreten durchgeführt
+FIRST_MSG_26=Spielaktualisierung
+FIRST_MSG_27=Aktualisieren
+FIRST_MSG_28=Neue Version verfügbar
+FIRST_MSG_29=Beende das Spiel!
+FIRST_MSG_30=Du bist dabei, die Welt von Loya zu betreten, bist du bereit?
+FIRST_MSG_31=Wenn das Laden fehlschlägt, versuchen Sie, das <color=#2BE475>WLAN/4G</color>-Netzwerk zu wechseln, oder verwenden Sie die Funktion <color=#2BE475>[Client reparieren]</color>
+FIRST_MSG_32=Client reparieren
+FIRST_MSG_33=Neue Version gefunden, bitte jetzt aktualisieren
+FIRST_MSG_34=Es wird empfohlen, in einer WLAN-Umgebung zu aktualisieren

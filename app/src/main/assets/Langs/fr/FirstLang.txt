@@ -1,0 +1,27 @@
+FIRST_MSG_1=Fichier piraté : {0}, veuillez vérifier le réseau !
+FIRST_MSG_2=Échec du téléchargement de la ressource : {0}, veuillez vérifier le réseau !
+FIRST_MSG_4=Échec de la connexion au serveur
+FIRST_MSG_8=Impossible d'obtenir les informations de mise à jour
+FIRST_MSG_10=Mise à jour majeure de la version
+FIRST_MSG_12=Impossible de télécharger le fichier :
+FIRST_MSG_13=Il y a une anomalie dans la vérification de ce fichier :
+FIRST_MSG_14=L'initialisation a échoué, si le jeu ne peut pas fonctionner normalement, veuillez redémarrer le jeu
+FIRST_MSG_15=Informations
+FIRST_MSG_17=Annuler
+FIRST_MSG_18=OK
+FIRST_MSG_19=Le dernier package d'installation est disponible, veuillez le télécharger et l'installer
+FIRST_MSG_20=Erreur d'écriture du fichier, peut-être pas assez d'espace :
+FIRST_MSG_21=Mise à jour...
+FIRST_MSG_22=Version du package :
+FIRST_MSG_23=Version de la ressource :
+FIRST_MSG_24=Taille de la ressource :
+FIRST_MSG_25=Réparer ? Après confirmation, le jeu se fermera et le processus de réparation sera effectué après la rentrée
+FIRST_MSG_26=Mise à jour du jeu
+FIRST_MSG_27=Mettre à jour
+FIRST_MSG_28=Nouvelle version disponible
+FIRST_MSG_29=Quitter le jeu !
+FIRST_MSG_30=Vous êtes sur le point d'entrer dans le monde de Loya, êtes-vous prêt ?
+FIRST_MSG_31=Si le chargement échoue, essayez de changer de réseau <color=#2BE475>WiFi/4G</color>, ou utilisez la fonction <color=#2BE475>[Repair Client]</color>
+FIRST_MSG_32=Réparer le client
+FIRST_MSG_33=Nouvelle version trouvée, veuillez mettre à jour maintenant
+FIRST_MSG_34=Il est recommandé de mettre à jour dans un environnement WiFi

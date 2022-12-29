@@ -1,0 +1,27 @@
+FIRST_MSG_1=Dosya ele geçirildi: {0}, lütfen ağı kontrol edin!
+FIRST_MSG_2=Kaynak indirilemedi: {0}, lütfen ağı kontrol edin!
+FIRST_MSG_4=Sunucuya bağlanılamadı
+FIRST_MSG_8=Güncelleme bilgisi alınamadı
+FIRST_MSG_10=Ana sürüm güncellemesi
+FIRST_MSG_12=Dosya indirilemedi:
+FIRST_MSG_13=Bu dosyanın doğrulanmasında bir anormallik var:
+FIRST_MSG_14=Başlatma başarısız, oyun normal şekilde çalışmazsa, lütfen oyunu yeniden başlatın
+FIRST_MSG_15=Bilgi
+FIRST_MSG_17=İptal
+FIRST_MSG_18=Tamam
+FIRST_MSG_19=En son kurulum paketi mevcut, lütfen indirin ve kurun
+FIRST_MSG_20=Dosya yazılırken hata oluştu, yeterli alan olmayabilir:
+FIRST_MSG_21=Güncelleniyor...
+FIRST_MSG_22=Paket Sürümü:
+FIRST_MSG_23=Kaynak Sürümü:
+FIRST_MSG_24=Kaynak Boyutu:
+FIRST_MSG_25=Düzeltilsin mi? Onaylandıktan sonra oyundan çıkacak ve tekrar giriş yaptıktan sonra onarım işlemi gerçekleştirilecektir.
+FIRST_MSG_26=Oyun Güncellemesi
+FIRST_MSG_27=Güncelle
+FIRST_MSG_28=Yeni sürüm mevcut
+FIRST_MSG_29=Oyundan çıkın!
+FIRST_MSG_30=Loya dünyasına girmek üzeresiniz, hazır mısınız?
+FIRST_MSG_31=Yükleme başarısız olursa, <color=#2BE475>WiFi/4G</color> ağını değiştirmeyi deneyin veya <color=#2BE475>[Repair Client]</color> işlevini kullanın
+FIRST_MSG_32=İstemciyi Onar
+FIRST_MSG_33=Yeni sürüm bulundu, lütfen şimdi güncelleyin
+FIRST_MSG_34=WiFi ortamında güncelleme yapılması önerilir
